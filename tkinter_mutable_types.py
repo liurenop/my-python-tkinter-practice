@@ -12,9 +12,9 @@ Python的字符串、整数、浮点数和布尔值都是不可变的，所以tk
 import tkinter
 
 window = tkinter.Tk()
-data = tkinter.StringVar()
+data = tkinter.StringVar()#data是可变的
 data.set('Data to display')
-label = tkinter.Label(window, textvariable=data)
+label = tkinter.Label(window, textvariable=data)#label里用的是textvariable，不是text
 label.pack()
 
 window.mainloop()

@@ -1,7 +1,7 @@
-# myPthonPractice
-## 一些python编程练习
-### 一些python编程练习
-#### 一些python编程练习
-##### 一些python编程练习
-###### 一些python编程练习
-一些python编程练习
+# tkinter Practice
+## 一些python tkinter编程练习
+### 一些python tkinter编程练习
+#### 一些python tkinter编程练习
+##### 一些python tkinter编程练习
+###### 一些python tkinter编程练习
+一些python tkinter编程练习

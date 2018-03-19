@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 16 13:52:18 2018
 tkinter中的可变参数
 
 Suppose you want to display a string, such as the current time or a score in a game, in several places in a GUI—the application’s status bar, some dialog boxes, and so on. Calling method config on each widget every time there is new information isn’t hard, but as the application grows, so too do the odds that we’ll forget to update at least one of the widgets that’s displaying the string. What we really want is a string that “knows” which widgets care about its value and can alert them itself when that value changes. 
